@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Machine Leraning.
 - 📫 How to reach me: sudarshantiwary09@gmail.com
-- 😄 Pronouns: He/Him
+
 
 
 <!---
