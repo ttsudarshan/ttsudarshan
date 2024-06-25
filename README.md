@@ -1,4 +1,4 @@
- 📫 How to reach me: sudarshantiwary09@gmail.com
+ 📫 How to reach me: st582s@login.missouristate.edu
 
 
 
