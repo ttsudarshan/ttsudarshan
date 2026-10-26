@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Sudarshan Tiwari 👋</h1>
 
-<p align="center">
-  <a href="https://www.sudarshantwry.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Backend+%26+Systems+Engineer;C%23+%2F+.NET+%E2%80%A2+PostgreSQL+%E2%80%A2+React+%2F+Angular;I+write+Linux+kernel+modules+for+fun;CS+%40+Missouri+State+%E2%80%94+graduating+Dec+2026" alt="Typing intro" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.sudarshantwry.org"><img src="https://img.shields.io/badge/Portfolio-sudarshantwry.org-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
