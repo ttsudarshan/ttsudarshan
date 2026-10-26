@@ -17,7 +17,6 @@
 ### 🧑‍💻 About me
 
 - 🎓 **B.S. Computer Science**, Missouri State University, graduating **December 2026**
-- 💼 **Software Developer Intern @ TuningSQL**: shipped full stack SaaS features in **React + C#/.NET + PostgreSQL** through code review and **Azure CI/CD**
 - 🔬 **Research Assistant @ Missouri State**: building **KTMM**, a tiered-memory **Linux kernel module** in C that moves hot pages from slow CXL memory to DRAM and cold pages back down
 - 🧠 Backend and systems at heart: I like deep, hard problems and stay with a bug until it cracks
 - ♟️ Reigning **Missouri State University chess champion**
