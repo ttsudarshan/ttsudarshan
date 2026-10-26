@@ -87,20 +87,6 @@
 
 ---
 
-### 🚀 Featured work
-
-| Project | What it is | Stack |
-|---------|------------|-------|
-| 🧬 **[KTMM: Tiered Memory Module](https://github.com/ttsudarshan/ktmm_with_migration)** | Linux kernel module that promotes hot pages from CXL/PMEM to DRAM and demotes cold ones through a 3-stage pipeline, with a per-node kernel daemon and kprobes/ftrace hooks; covers anonymous, file-backed and huge pages | C, Linux 6.1, kprobes, ftrace, Python benchmarks |
-| 📈 **TickerDesk** | Stock-tracking web app with personal watchlists and live prices, containerized and deployed to Azure through a GitHub Actions pipeline | C#/.NET, Angular, SQL Server, Redis, Docker |
-| ⚙️ **TaskForge** | Background-job microservices: users get instant confirmations while PDF, email and image jobs run in the background | .NET Core, RabbitMQ, Kubernetes, Azure DevOps |
-| ✍️ **Conduit .NET** | Blogging and social publishing platform with JWT sign-in and policy-based authorization; passes the public spec's full test suite | C#/.NET, PostgreSQL, EF Core, LINQ |
-| 🖥️ **[System Monitor](https://github.com/ttsudarshan/System_monitor)** | Real-time Linux system monitor with live CPU/memory/disk/network graphs, a process manager, and a systemd screen-time daemon | C++17, Qt6, CMake, SQLite |
-| 🎵 **[AI Music Recommender](https://github.com/ttsudarshan/ttsudarshan-applied-ai-system-project)** | Claude-powered agent with tool calling and RAG retrieval over a song catalog, plus an automated test harness | Python, Claude API, Streamlit |
-
-➡️ More on my portfolio: **[sudarshantwry.org](https://www.sudarshantwry.org)**
-
----
 
 ### 📊 GitHub stats
 
