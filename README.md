@@ -7,6 +7,15 @@
   <a href="mailto:sudarshantiwary09@gmail.com"><img src="https://img.shields.io/badge/Email-sudarshantiwary09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ttsudarshan/ttsudarshan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+      <img alt="Sudarshan's GitHub profile card" src="light_mode.svg">
+    </picture>
+  </a>
+</p>
+
 ---
 
 ### 🧑‍💻 About me

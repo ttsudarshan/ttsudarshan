@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1041px" height="450px" font-size="16px">
+<style>
+@font-face { font-family: ConsolasFallback; src: local('Consolas'); }
+.text { fill: #24292f; } .key { fill: #953800; } .value { fill: #0a3069; }
+.cc { fill: #c2cfde; } .add { fill: #1a7f37; } .dele { fill: #cf222e; }
+text, tspan { white-space: pre; font-family: ConsolasFallback, Consolas, 'DejaVu Sans Mono', Menlo, monospace; }
+</style>
+<rect width="1041px" height="450px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="20.5" fill="#24292f" font-size="6px" xml:space="preserve">
+<tspan x="15" y="20.5"></tspan>
+<tspan x="15" y="28.0"></tspan>
+<tspan x="15" y="35.5">      =lLLL                                                                                 ==*=</tspan>
+<tspan x="15" y="43.0">       &amp;&amp;$LLl|                                                                       ~+*|llLLL|~</tspan>
+<tspan x="15" y="50.5">       &amp;&amp;$$LLl|**                                                                 +=*|llllll|**+</tspan>
+<tspan x="15" y="58.0">       $&amp;$&amp;&amp;$Ll|****                                                           -+*lllLLLLLl|===+</tspan>
+<tspan x="15" y="65.5">        &amp;&amp;&amp;&amp;$$Ll|*=****                                                     ;+|llllLL$$$LLl|===+</tspan>
+<tspan x="15" y="73.0">        L&amp;$$$$Ll|***====**                                               `-*|llLLLLLLL$$$L||*=+*</tspan>
+<tspan x="15" y="80.5">         &amp;$&amp;&amp;&amp;$L|***======*|                    %&amp;L|+~-:,,        %%||~~*lLl||lllL$LLL$$$L|**==</tspan>
+<tspan x="15" y="88.0">          &amp;&amp;&amp;&amp;&amp;$L|**=+===***|lLL|*|lLLlll||||**|*~,`'',:--~=**|LL$$L||$%%&amp;&amp;L||**||L&amp;&amp;&amp;&amp;&amp;$L||*=</tspan>
+<tspan x="15" y="95.5">           &amp;&amp;%%&amp;l|==+====**||lL$LlllLLLLL$&amp;%%$l**-`''.`,;=lLLLLL$$LLL&amp;%%%%&amp;Ll|*=*|L&amp;&amp;%%%&amp;$ll|=</tspan>
+<tspan x="15" y="103.0">           $%%&amp;$l|||*******||lL$$&amp;&amp;$$$$$$$&amp;%g&amp;=++;`.....';|&amp;$L$&amp;%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$L|*=|L&amp;%%%%&amp;$l;</tspan>
+<tspan x="15" y="110.5">            &amp;%%&amp;&amp;$lll||*|||lL$$&amp;%%&amp;$LLlLL$L&amp;g$+-;:'    .':*L|l$&amp;%%$&amp;%%&amp;&amp;&amp;%%%%&amp;$$&amp;$LL&amp;%%%%%$~</tspan>
+<tspan x="15" y="118.0">             &amp;&amp;&amp;&amp;Ll||**||llL$&amp;$$$LLLl||L&amp;$|*L&amp;|;,'.    .',;;-|$$LllL&amp;&amp;%%%%%%&amp;&amp;&amp;&amp;&amp;&amp;%%%gg%%&amp;*</tspan>
+<tspan x="15" y="125.5">             Ll|||****|lLL$$$$$Ll|||llL&amp;&amp;|+~~=~,'...   .,:,,;+L$LlllL$$$&amp;%%%%%%%%&amp;$$&amp;&amp;%%%$;</tspan>
+<tspan x="15" y="133.0">              =*|lll|lL$$$$LLLLLLl|*|$%%L=~-:,'.....  .,~=+~~~*&amp;%&amp;L||*l$&amp;&amp;%%%%%%%%%%%$LL%&amp;</tspan>
+<tspan x="15" y="140.5">              +|llL&amp;LLLLLLLLLL&amp;%&amp;$Lll$%&amp;|=~;,'........':=LL|***L%%L*|L&amp;%%&amp;&amp;&amp;%%%%%ggggg$|l</tspan>
+<tspan x="15" y="148.0">               *lllLLllLLL$&amp;%&amp;&amp;%&amp;&amp;$$$$&amp;$|=~;`.........`;=L&amp;$Lll$%%&amp;$&amp;%%%%%%%%%%%%%gggg%LL</tspan>
+<tspan x="15" y="155.5">               *lL$&amp;&amp;%%gggg%*lggMMMMMMggg%$l+:`'''''`,-*$%ggMMMMM@@@@@@M@@@MMMggg%%gggg&amp;</tspan>
+<tspan x="15" y="163.0">               %ggMMMMMMMgggggMggMMMMMMM@@@@Mg%$$&amp;&amp;&amp;%%gM@@@@@@@@@@@@@@@@@@@@@@@@@@Mg%%gg&amp;</tspan>
+<tspan x="15" y="170.5">               &amp;%MMMMggggg&amp;l**L%gggMMMMMMMMMMMMMgl|*|&amp;MM@@@@@@@@@@@@@@@@@@@@@@@@@@@g|$gg=</tspan>
+<tspan x="15" y="178.0">              gMgMMMMggg%|,   .-LgggMMMMMMMMMgg%=;:;;=%M@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Mgg=</tspan>
+<tspan x="15" y="185.5">              ,+&amp;MMMgggg&amp;+.    ,lgggMMMMMMMMgM&amp;~,,`,:;*%M@@@@@@@@@@@@@@@@@@@@@@@@@@Mggggl</tspan>
+<tspan x="15" y="193.0">               .*MMMMggg%$=;,,+$ggggMMMMMMMMg|:````,,,,~lg@@@@@@@@@@@@@@@@@@@@@@@@@gg&amp;Ll|</tspan>
+<tspan x="15" y="200.5">              ';lMMMMgggggg%%%MgggMMMMMMMMM&amp;+,````,,,,,,:+&amp;@@@@@@@@@@@@@@@@@@@@@@@Mgg%$||</tspan>
+<tspan x="15" y="208.0">              ,*$%@@MMMgggggggggMMMMMM@@@g|,```'`,::::::;;-|&amp;M@@@@@@@@@@@@@@@@@@@gLL&amp;gg$l</tspan>
+<tspan x="15" y="215.5">              -*+;+$gMMMMMMMMMMMM@@@Mg%&amp;|;''````,,::;;;;-----+|L&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$$L|+++l%g%</tspan>
+<tspan x="15" y="223.0">             `;:'. .,-~+=**|||||**=~;,,`...'`,:::;;----~~~~-;::;---;;;;;;;;;---~~+++=$gg</tspan>
+<tspan x="15" y="230.5">              ... ....'''''````''.      ...',:--~~+++++++++-;;::::;;;;-~+++++=***+~~+=l&amp;</tspan>
+<tspan x="15" y="238.0">              ......'`````````''.         .';+=*|||l||lL$$|+-;;::::;--~+=*|lllll|=+++++=</tspan>
+<tspan x="15" y="245.5">              ... ..'```,,,,,`'.       ....`;+|L$$&amp;%&amp;%Mg&amp;|+-;:::::::;~+=|lL$LLLLl|*==+++</tspan>
+<tspan x="15" y="253.0">              `  ..''```,,,,,,`'......''''''`:;~=L%gg%L=------~~~~~~~~~+*l$&amp;&amp;&amp;$Ll||*==++</tspan>
+<tspan x="15" y="260.5">              :  ..''```,,,,,,,`'.''''````,,::;-~|$%$*+~~~~~~~++++~~~~~+*L$&amp;&amp;&amp;$Ll|**==++</tspan>
+<tspan x="15" y="268.0">               . ...''``,,,,,,,`''```,,,::;;-~++*|$%$|**=****|*===**==+=|L$$$$Ll|==+++++*</tspan>
+<tspan x="15" y="275.5">              -'  ..'''``,,,,,,,`,,,::;;--~~++*|l&amp;%g%&amp;Ll||lLL$Lllllll||llLLLl|*=+++++++=l</tspan>
+<tspan x="15" y="283.0">              ;.  ...''```,,,,,`,,,::;--~+=*|lLL$&amp;&amp;%%%$$$&amp;&amp;&amp;&amp;&amp;$$$$$$$$$$$LLl|**===++++=|L</tspan>
+<tspan x="15" y="290.5">              '   ...''```,,,,,,,,,:::;-~+=******||llllL&amp;%%%%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$LLll||*=====++*l$</tspan>
+<tspan x="15" y="298.0">              .   ..'''`````,,,,,:::::;;;;--~~++=*||l||L&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%%&amp;&amp;&amp;$$Ll||||****==+~~=lL</tspan>
+<tspan x="15" y="305.5">                  ..'''''''````,,,,,:::;;;---~~++=*|l|lL$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;$Lll||*****=***==+~-~*L$</tspan>
+<tspan x="15" y="313.0">                  ....''''''``'`````,,,:::;;;--~~~+====*|||lllLll||**=====*======++~---+l$</tspan>
+<tspan x="15" y="320.5">                    ..''''''``````,,,,,,::;;;;----~~~~++=======**|||*=====**===++~~-;;;-=$</tspan>
+<tspan x="15" y="328.0">                    ...''''''````,,,,,,:::;;;---~~~~~++=====++++=============++~~--;;;;-=$</tspan>
+<tspan x="15" y="335.5">                     .....''''''````,,,,::::;;---~~~~~~=**=++++~~~++=+++++++~~~~--;;::;-=$g</tspan>
+<tspan x="15" y="343.0">                      .......'''''`````,,,,::::;;-~~~~~~=|=~-~~+++++++++~~~-----;;;:::::;+$</tspan>
+<tspan x="15" y="350.5">                     .........''''````````,,,::;;--~~---+|=~----~~~~~~~~------;;;:::::::;~L</tspan>
+<tspan x="15" y="358.0">                  . ....''....'''''''````,,,:::;;;-~~-;-+*=~--;;---~~~~~~---;;:::::::::::-|</tspan>
+<tspan x="15" y="365.5">                  ..........'.''''''```,,,,,,,,:::;~~-;;~==~;;-------------;;:::::::::::;-*</tspan>
+<tspan x="15" y="373.0">                 .....''...'''''''```````,,,,,:::;;~~;;;-++~------------;;---;;;::::::::;;+</tspan>
+<tspan x="15" y="380.5">                    .....''`'''''```````,,,,::::::;--;;~~+~~--;;;;;-----;;;;----;;:::::;;-+</tspan>
+<tspan x="15" y="388.0">                    ......'''''''````,,,::,,::::::;;;;-++~---;;;;;;------;;;;;-;;;::::::;;=%</tspan>
+</text>
+<text x="414" y="31" fill="#24292f" xml:space="preserve">
+<tspan x="414" y="31"><tspan class="key">sudarshan@thinkpad</tspan><tspan class="cc"> -—————————————————————————————————————-—-</tspan></tspan>
+<tspan x="414" y="51"><tspan class="cc">. </tspan><tspan class="key">OS:</tspan><tspan class="cc"> ........................................... </tspan><tspan class="value">Linux Mint</tspan></tspan>
+<tspan x="414" y="71"><tspan class="cc">. </tspan><tspan class="key">Uptime:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">2 years, 8 months, 22 days on GH</tspan></tspan>
+<tspan x="414" y="91"><tspan class="cc">. </tspan><tspan class="key">Host:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">Missouri State University (CS '26)</tspan></tspan>
+<tspan x="414" y="111"><tspan class="cc">. </tspan><tspan class="key">Kernel:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Backend &amp; Systems Engineer</tspan></tspan>
+<tspan x="414" y="131"><tspan class="cc">. </tspan><tspan class="key">Status:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Open to new-grad SWE roles</tspan></tspan>
+<tspan x="414" y="151"><tspan class="cc">. </tspan><tspan class="key">IDE:</tspan><tspan class="cc"> ............................................. </tspan><tspan class="value">VS Code</tspan></tspan>
+<tspan x="414" y="171"><tspan class="cc">. </tspan><tspan class="key">Machine:</tspan><tspan class="cc"> ........................................ </tspan><tspan class="value">ThinkPad</tspan></tspan>
+<tspan x="414" y="191"><tspan class="cc">. </tspan></tspan>
+<tspan x="414" y="211"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming:</tspan><tspan class="cc"> .... </tspan><tspan class="value">C#, C, C++, Python, JavaScript</tspan></tspan>
+<tspan x="414" y="231"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">SQL, HTML, CSS, Bash</tspan></tspan>
+<tspan x="414" y="251"><tspan class="cc">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">English, Nepali</tspan></tspan>
+<tspan x="414" y="271"><tspan class="cc">. </tspan></tspan>
+<tspan x="414" y="291"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Software:</tspan><tspan class="cc"> ..... </tspan><tspan class="value">Linux tinkering, market data tools</tspan></tspan>
+<tspan x="414" y="311"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Real:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">Chess, Soccer, Gym</tspan></tspan>
+<tspan x="414" y="331"><tspan class="text">- Contact -</tspan><tspan class="cc">——————————————————————————————————————————————-—-</tspan></tspan>
+<tspan x="414" y="351"><tspan class="cc">. </tspan><tspan class="key">Website:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">www.sudarshantwry.org</tspan></tspan>
+<tspan x="414" y="371"><tspan class="text">- GitHub Stats -</tspan><tspan class="cc">—————————————————————————————————————————-—-</tspan></tspan>
+<tspan x="414" y="391"><tspan class="cc">. </tspan><tspan class="key">Repos:</tspan><tspan class="cc"> ..... </tspan><tspan class="value">47</tspan><tspan class="cc"> {</tspan><tspan class="key">Contributed: </tspan><tspan class="value">1</tspan><tspan class="cc">}</tspan><tspan class="cc"> | </tspan><tspan class="cc"></tspan><tspan class="key">Stars:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">10</tspan></tspan>
+<tspan x="414" y="411"><tspan class="cc">. </tspan><tspan class="key">Commits:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">589</tspan><tspan class="cc"> | </tspan><tspan class="cc"></tspan><tspan class="key">Followers:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">6</tspan></tspan>
+<tspan x="414" y="431"><tspan class="cc">. </tspan><tspan class="key">Lines of Code:</tspan><tspan class="cc"> ...... </tspan><tspan class="value">1,111,330</tspan><tspan class="cc"> ( </tspan><tspan class="add">1,246,129++</tspan><tspan class="cc">, </tspan><tspan class="dele">134,799--</tspan><tspan class="cc"> )</tspan></tspan>
+</text>
+</svg>

@@ -1,0 +1,37 @@
+{
+  "github_username": "ttsudarshan",
+  "prompt": "sudarshan@thinkpad",
+  "birthday": "",
+
+  "_comment": "Lines with an empty value are skipped. '' as a key = blank spacer line. Edit freely, then push.",
+
+  "sections": [
+    {
+      "title": null,
+      "lines": [
+        ["OS", "Linux Mint"],
+        ["Uptime", "{uptime}"],
+        ["Host", "Missouri State University (CS '26)"],
+        ["Kernel", "Backend & Systems Engineer"],
+        ["Status", "Open to new-grad SWE roles"],
+        ["IDE", "VS Code"],
+        ["Machine", "ThinkPad"],
+        ["", ""],
+        ["Languages.Programming", "C#, C, C++, Python, JavaScript"],
+        ["Languages.Computer", "SQL, HTML, CSS, Bash"],
+        ["Languages.Real", "English, Nepali"],
+        ["", ""],
+        ["Hobbies.Software", "Linux tinkering, market data tools"],
+        ["Hobbies.Real", "Chess, Soccer, Gym"]
+      ]
+    },
+    {
+      "title": "Contact",
+      "lines": [
+        ["Website", "www.sudarshantwry.org"],
+        ["Email", ""],
+        ["LinkedIn", ""]
+      ]
+    }
+  ]
+}
